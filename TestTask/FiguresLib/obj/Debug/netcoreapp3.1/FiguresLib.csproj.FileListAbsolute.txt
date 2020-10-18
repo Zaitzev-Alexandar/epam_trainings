@@ -1,0 +1,9 @@
+D:\Studying\training\TestTask\FiguresLib\bin\Debug\netcoreapp3.1\FiguresLib.deps.json
+D:\Studying\training\TestTask\FiguresLib\bin\Debug\netcoreapp3.1\FiguresLib.dll
+D:\Studying\training\TestTask\FiguresLib\bin\Debug\netcoreapp3.1\FiguresLib.pdb
+D:\Studying\training\TestTask\FiguresLib\obj\Debug\netcoreapp3.1\FiguresLib.csprojAssemblyReference.cache
+D:\Studying\training\TestTask\FiguresLib\obj\Debug\netcoreapp3.1\FiguresLib.AssemblyInfoInputs.cache
+D:\Studying\training\TestTask\FiguresLib\obj\Debug\netcoreapp3.1\FiguresLib.AssemblyInfo.cs
+D:\Studying\training\TestTask\FiguresLib\obj\Debug\netcoreapp3.1\FiguresLib.csproj.CoreCompileInputs.cache
+D:\Studying\training\TestTask\FiguresLib\obj\Debug\netcoreapp3.1\FiguresLib.dll
+D:\Studying\training\TestTask\FiguresLib\obj\Debug\netcoreapp3.1\FiguresLib.pdb

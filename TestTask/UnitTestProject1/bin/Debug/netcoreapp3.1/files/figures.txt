@@ -1,0 +1,9 @@
+﻿Rectangle R1 2 6
+Square S1 4
+Circle C1 3
+Rectangle R2 5 2
+Square S2 5
+Circle C2 4
+Square S3 2
+Circle C3 5
+Rectangle R3 1 6
